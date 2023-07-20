@@ -1,0 +1,33 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "firstName": "Salem",
+      "lastName": "Ahmad",
+      "email": "ahsalem@gmail.com",
+      "dateOfBirth": "1996-02-05T22:00:00.000Z",
+      "gender": "male",
+      "education": "Bachelor's degree",
+      "company": "Omniya",
+      "experianc": 4,
+      "salary": 100,
+      "id": 1
+    }
+  ]
+}
